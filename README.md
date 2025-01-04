@@ -1,1 +1,1 @@
-A simple 2 agent system
+A simple summarizer agent.
