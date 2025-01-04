@@ -1,0 +1,23 @@
+{
+    "speech": {
+        "rate": 150,
+        "volume": 1.0,
+        "pitch": 1.0,
+        "voice_id": "default"
+    },
+    "case_management": {
+        "max_evidence_items": 1000,
+        "max_leads": 100,
+        "auto_save_interval": 300
+    },
+    "logging": {
+        "level": "DEBUG",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "file": "detective_system_dev.log"
+    },
+    "scenario": {
+        "auto_branch": true,
+        "difficulty": "medium",
+        "complexity": 0.7
+    }
+}
