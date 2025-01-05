@@ -1,4 +1,3 @@
-import pytest
 from src.nlp.summarizer import ContentSummarizer
 
 def test_summarizer_initialization():
